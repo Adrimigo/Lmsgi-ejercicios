@@ -1,0 +1,57 @@
+@charset "utf-8";
+
+body{
+    background-color: #E0E1EB;
+    font-family: sans-serif;
+    text-align: justify;
+}
+h1{
+    background-color: #33354D;
+    color: white;
+    font-size: 400%;
+    margin: 0;
+}
+section.escritorio{
+    margin-top:5%;
+    position: absolute;
+    top: 10%;
+    right: 60%;
+    left:10%;
+    width: 35%;
+    border-left: hsl(235, 20%, 25%) 2px solid;
+    border-right: hsl(235, 20%, 25%) 2px solid;
+
+}
+h2{
+    background-color: #33354D;
+    color: white;
+    text-align: center;
+    margin:5%;
+    margin-top:0%;
+}
+section.internet{
+    margin-top: 5%;
+    position: absolute;
+    top: 10%;
+    right: 10%;
+    left:60%;
+    width: 35%;
+    border-left: hsl(235, 20%, 25%) 2px solid;
+    border-right: hsl(235, 20%, 25%) 2px solid;
+}
+h3{
+    margin-left: 10%;
+    background-color: #29A333;
+    color:white;
+    margin-right: 10%;
+    margin-bottom: 0%;
+    border-top-left-radius:10%;
+    border-top-right-radius:10%;
+    padding: 5px;
+    font-size:
+}
+p{
+    margin-right: 10%;
+    margin-left: 10%;
+    background-color: #FFFFFF;
+}

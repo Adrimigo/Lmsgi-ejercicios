@@ -1,0 +1,23 @@
+html{
+    blackground-colour: hsl(197, 50%, 85%);
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 300%;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+h2 ¨{
+    background-color: hsl(198, 51%, 50%)
+}
+
+h3 {
+    background-color: hsl(198, 51%, 65%)
+}
+
+pre {
+    background-color: rgb(248, 244, 244)
+}

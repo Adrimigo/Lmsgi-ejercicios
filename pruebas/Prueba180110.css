@@ -1,0 +1,39 @@
+@charset "utf-8";
+body {
+    background-color: black;
+    color: azure;
+}
+p#p1{
+    position: absolute;
+    background-color: royalblue;
+    border: black 1px solid;
+    left: 30%;
+    top: 10%;
+    width:40%;
+    z-index:1;
+    color: black;
+
+}
+p#p2{
+    position: absolute;
+    background-color: silver;
+    border: black 1px solid;
+    left: 15%;
+    top: 10%;
+    width:40%;
+    z-index:3;
+    color: black;
+}
+p#p3{
+    position: absolute;
+    background-color: gold;
+    border: black 1px solid;
+    left: 20%;
+    top: 10%;
+    width:40%;
+    z-index:3;
+    color: black;
+
+}
+
+

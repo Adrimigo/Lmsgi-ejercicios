@@ -1,0 +1,25 @@
+@charset "utf-8";
+body{
+    font-family: sans-serif;
+    font-size: 150%;
+}
+
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    border: black 5px solid;
+}
+
+p.estilo-1{
+    border-left: red 5px double;
+    border-top: red 5px double;
+    border-left: red 20px double;
+    border-top: red 20px double;
+}
+
+p.estilo-2{
+    border-top: hsl(240, 100%, 50%) 5px dashed;
+    border-bottom: blue 20px dashed;
+    border-left: green 40px dashed;
+    border-right: green 10px dashed;
+}
